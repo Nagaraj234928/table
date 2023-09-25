@@ -1,0 +1,25 @@
+
+td,th{
+    
+    border: 1px solid rgb(53, 0, 0);
+    
+}
+.system{
+    
+    width: 500px;
+    color: black;
+    font-size: medium;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.time{
+    width: 750px;
+    text-transform: capitalize;
+    text-align: center;
+    border-collapse:collapse ;
+}
+*{
+    text-transform: capitalize;
+}
+
+
+
